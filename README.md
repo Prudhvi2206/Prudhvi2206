@@ -1,3 +1,11 @@
+<div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=N%20Prudvi%20Raj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+%26+ML+Enthusiast;Full+Stack+Developer;Building+Scalable+Digital+Products;Open+Source+Contributor"/>
+</div>
+<br>
+
 # About Me:
 👋 Hi, I'm Prudvi Raj!<br>
 I am an innovative Full-Stack Developer and AI Enthusiast dedicated to building intelligent, multi-layered digital ecosystems that solve real-world problems. My development philosophy centers around blending cutting-edge Artificial Intelligence with seamless, high-performance user experiences. Welcome to my digital space! 💻✨
@@ -15,5 +23,9 @@ I am an innovative Full-Stack Developer and AI Enthusiast dedicated to building 
 
 ---
 [![](https://komarev.com/ghpvc/?username=Prudhvi2206&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

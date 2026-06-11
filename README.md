@@ -1,5 +1,6 @@
 # About Me:
-Hi there! 👋 I'm Prudvi Raj, an innovative Full-Stack Developer and AI Enthusiast dedicated to building intelligent, multi-layered digital ecosystems that solve real-world problems. My development philosophy centers around blending cutting-edge Artificial Intelligence with seamless, high-performance user experiences. Welcome to my digital space! 💻✨
+👋 Hi, I'm Prudvi Raj!<br>
+I am an innovative Full-Stack Developer and AI Enthusiast dedicated to building intelligent, multi-layered digital ecosystems that solve real-world problems. My development philosophy centers around blending cutting-edge Artificial Intelligence with seamless, high-performance user experiences. Welcome to my digital space! 💻✨
 
 
 ## 🌐 Socials:
